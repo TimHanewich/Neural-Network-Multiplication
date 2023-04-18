@@ -1,5 +1,5 @@
 # Basic Neural Network with Tensorflow and Keras
-The repository demonstrates training the basics of training a neural network to understand multiplication.
+The repository demonstrates the basics of training a neural network to understand multiplication.
 - [Model creation, training, and saving](./train.py)
 - [Model retrieval from disc and usage for prediction](./test.py)
 
